@@ -1,1 +1,3 @@
-# quadratic-function
+npm install
+
+npm test
